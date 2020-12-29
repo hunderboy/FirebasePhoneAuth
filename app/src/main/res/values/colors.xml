@@ -7,4 +7,38 @@
     <color name="teal_700">#FF018786</color>
     <color name="black">#FF000000</color>
     <color name="white">#FFFFFFFF</color>
+
+
+    <!--    다이얼로그 색상 설정-->
+    <color name="dialogBackground">#60000000</color>
+
+    <color name="colorPrimary">#6200EE</color>
+    <color name="colorPrimaryDark">#3700B3</color>
+    <color name="colorAccent">#FFBB86FC</color>
+
+
+    <!--    투명색-->
+    <color name="colorWhite">#ffffff</color>
+    <color name="colorIdentity">#19d3a9</color>
+
+    <color name="colorTxtInput">#171717</color>
+    <color name="colorTxtBlack1">#2e2f30</color>
+    <color name="colorTxtGrey1">#757575</color>
+    <color name="colorTxtGrey2">#afafaf</color>
+    <color name="colorTxtSpinnerBlack">#323232</color>
+    <color name="colorTxtHint">#e3e6e9</color>
+    <color name="colorTxtGrey3">#f0f3f6</color>
+    <color name="colorTxtGreen">#00d7a7</color>
+    <color name="colorTxtRed">#D81B60</color>
+    <color name="colorHelpTxtRed">#FF0000</color>
+
+    <color name="colorInActive">#e3e6e9</color>
+    <color name="colorActive">#19d3a9</color>
+
+    <color name="colorIntro">#07BEB8</color>
+    <color name="colorIntroDark">#46B4B4</color>
+    <color name="colorTransparency">#07BEB8</color>
+
+
+
 </resources>

@@ -1,4 +1,4 @@
-package com.thcompany.smartkneewalk.dialog
+package com.example.phoneauthbyfirebase.dialog
 
 import android.app.Activity
 import android.app.Dialog
@@ -10,8 +10,8 @@ import android.graphics.PorterDuff
 import android.graphics.drawable.Drawable
 import android.os.Build
 import androidx.core.content.res.ResourcesCompat
-import com.thcompany.smartkneewalk.R
-import kotlinx.android.synthetic.main.progress_dialog_view.view.*
+import com.example.phoneauthbyfirebase.R
+
 
 
 class CustomProgressDialog {
